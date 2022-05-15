@@ -1,0 +1,72 @@
+footer{
+    width: 100%;
+    max-width: 1600px;
+    height: 365px;
+    background-color: #F7F7F7;
+}
+.footer-container{
+    width: 1400px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.column{
+    width: 170px;
+    height: 130px;
+}
+.column-title{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 160%;
+    color: #01010D;
+}
+.column-link{
+    margin: 20px auto 15px auto;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 120%;
+    color: #01010D;
+}
+.column-icons{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 120px;
+}
+.column-ico{
+    background-size: 20px;
+    height: 31px;
+    width: 30px;
+    background-repeat: no-repeat;
+}
+.face{
+    background-image: url('./app-footer-img/facebook.png');
+    height: 25px;
+    width: 20px;
+    background-size: 15px;
+}
+.inst {
+    background-image: url('./app-footer-img/instagram.png')
+}
+.twit{
+    background-image: url('./app-footer-img/twitter.png')
+}
+.columns{
+    width: 1200px;
+    margin: 50px 0px 0px 100px;
+    display: flex;
+    justify-content: space-around;
+}
+input{
+    margin-top: 20px;
+    border: 1px solid #CCC;
+    padding: 4px 0px 0px 20px;
+    width: 163.65px;
+    height: 35.9px;
+    background: #FFFFFF;
+    border-radius: 6px;
+}
