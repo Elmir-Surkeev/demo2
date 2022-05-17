@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/demo2/static/css/main.10bf3fe9.css",
+    "main.js": "/demo2/static/js/main.abfa6a13.js",
+    "static/media/background-picture.png": "/demo2/static/media/background-picture.8122d22bc154c842227c.png",
+    "static/media/pngwing.png": "/demo2/static/media/pngwing.e25f32502a27e16ef5c6.png",
+    "static/media/Watches-picture.png": "/demo2/static/media/Watches-picture.6c0ef6d02dcde9bf39a1.png",
+    "static/media/man-hand.png": "/demo2/static/media/man-hand.8f07f7b87aaec7234075.png",
+    "static/media/apple-watch-4-640x387-removebg-preview 1.png": "/demo2/static/media/apple-watch-4-640x387-removebg-preview 1.52ba79404bf0d5e6df48.png",
+    "static/media/purple.png": "/demo2/static/media/purple.dfa4318205f7be7158ec.png",
+    "static/media/Rectangle 42.png": "/demo2/static/media/Rectangle 42.fa959f9e8390679a47ff.png",
+    "static/media/Rectangle 43.png": "/demo2/static/media/Rectangle 43.8fdc5587f922b363bb47.png",
+    "index.html": "/demo2/index.html",
+    "main.10bf3fe9.css.map": "/demo2/static/css/main.10bf3fe9.css.map",
+    "main.abfa6a13.js.map": "/demo2/static/js/main.abfa6a13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10bf3fe9.css",
+    "static/js/main.abfa6a13.js"
+  ]
+}
