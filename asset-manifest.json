@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Elmir-Surkeev/Demo/static/css/main.0f16e846.css",
+    "main.js": "/Elmir-Surkeev/Demo/static/js/main.abfa6a13.js",
+    "static/media/background-picture.png": "/Elmir-Surkeev/Demo/static/media/background-picture.8122d22bc154c842227c.png",
+    "static/media/pngwing.png": "/Elmir-Surkeev/Demo/static/media/pngwing.e25f32502a27e16ef5c6.png",
+    "static/media/Watches-picture.png": "/Elmir-Surkeev/Demo/static/media/Watches-picture.6c0ef6d02dcde9bf39a1.png",
+    "static/media/man-hand.png": "/Elmir-Surkeev/Demo/static/media/man-hand.8f07f7b87aaec7234075.png",
+    "static/media/apple-watch-4-640x387-removebg-preview 1.png": "/Elmir-Surkeev/Demo/static/media/apple-watch-4-640x387-removebg-preview 1.52ba79404bf0d5e6df48.png",
+    "static/media/purple.png": "/Elmir-Surkeev/Demo/static/media/purple.dfa4318205f7be7158ec.png",
+    "static/media/Rectangle 42.png": "/Elmir-Surkeev/Demo/static/media/Rectangle 42.fa959f9e8390679a47ff.png",
+    "static/media/Rectangle 43.png": "/Elmir-Surkeev/Demo/static/media/Rectangle 43.8fdc5587f922b363bb47.png",
+    "index.html": "/Elmir-Surkeev/Demo/index.html",
+    "main.0f16e846.css.map": "/Elmir-Surkeev/Demo/static/css/main.0f16e846.css.map",
+    "main.abfa6a13.js.map": "/Elmir-Surkeev/Demo/static/js/main.abfa6a13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f16e846.css",
+    "static/js/main.abfa6a13.js"
+  ]
+}
